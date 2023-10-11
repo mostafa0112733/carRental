@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47328655837",
+    "project_id": "gocar-b65e2",
+    "storage_bucket": "gocar-b65e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47328655837:android:46a8450fb364894743de34",
+        "android_client_info": {
+          "package_name": "com.example.gocar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKOdT3-3_y_gt8R1_HwoZOIhH0QQ9GCaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
